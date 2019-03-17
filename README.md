@@ -1,16 +1,12 @@
-# plants
+# Minimal Designs - Plants
 
-A new Flutter project.
+Minimal design screens created with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/6158149-Plant-Shop/attachments/1320400
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/TztQi6XGDmU
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20190314-051018](https://user-images.githubusercontent.com/8137504/54494130-35ea8b00-48fd-11e9-85c0-0cfa4328b496.png)
+![Screenshot_20190317-040810](https://user-images.githubusercontent.com/8137504/54494133-384ce500-48fd-11e9-9f61-4d2b89d98579.png)
